@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIP.Cartoes.Application", "BIP.Cartoes.Application\BIP.Cartoes.Application.csproj", "{68404BAF-ADBD-4F45-9903-9DEE1ABA6317}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIP.Cartoes.Infrastructure", "BIP.Cartoes.Infrastructure\BIP.Cartoes.Infrastructure.csproj", "{F2F7CA45-2914-44F7-A618-04A0E2AC12AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIP.Cartoes.Functions", "BIP.Cartoes.Functions\BIP.Cartoes.Functions.csproj", "{C47AFB09-9731-42DC-915E-916843E8C8F7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIP.Cartoes.Shared", "BIP.Cartoes.Shared\BIP.Cartoes.Shared.csproj", "{17202B88-B938-4CAD-8BF1-ECA5D1C00653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIP.Cartoes.Functions", "BIP.Cartoes.Functions\BIP.Cartoes.Functions.csproj", "{E98AD476-A838-46C6-9A29-29DAB0F2A749}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +25,14 @@ Global
 		{F2F7CA45-2914-44F7-A618-04A0E2AC12AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F7CA45-2914-44F7-A618-04A0E2AC12AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F7CA45-2914-44F7-A618-04A0E2AC12AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C47AFB09-9731-42DC-915E-916843E8C8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C47AFB09-9731-42DC-915E-916843E8C8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C47AFB09-9731-42DC-915E-916843E8C8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C47AFB09-9731-42DC-915E-916843E8C8F7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17202B88-B938-4CAD-8BF1-ECA5D1C00653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17202B88-B938-4CAD-8BF1-ECA5D1C00653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17202B88-B938-4CAD-8BF1-ECA5D1C00653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17202B88-B938-4CAD-8BF1-ECA5D1C00653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98AD476-A838-46C6-9A29-29DAB0F2A749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98AD476-A838-46C6-9A29-29DAB0F2A749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98AD476-A838-46C6-9A29-29DAB0F2A749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98AD476-A838-46C6-9A29-29DAB0F2A749}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
