@@ -2,7 +2,7 @@
   "profiles": {
     "BIP.Cartoes.Functions": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7281",
+      "commandLineArgs": "--port 7040",
       "launchBrowser": false
     }
   }
